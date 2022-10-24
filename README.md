@@ -45,17 +45,15 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 ![WhatsApp Image 2022-07-25 at 7 04 29 PM](https://user-images.githubusercontent.com/69979237/180792971-ef75a3bc-113e-4923-9787-a69ea26089bc.jpeg)
 
 # About Us
-We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
+We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--  Uday Kiran Pamu(Lead)
+-  B Sailu
 
--  G Mallika
+-  P Deepthi Sai Lakshmi
 
--  N Srilatha
-
--  M Poojitha
+-  V Madhulatha
 
 
 # Privacy Policies 
 
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+https://www.freeprivacypolicy.com/live/7e83fb18-9507-4fd1-b6e8-6c24bc4bf5c2
