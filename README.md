@@ -1,4 +1,4 @@
-# Future Ready Talent - MyPdfAddA
+# Future Ready Talent - Memorial Books
 
 
 
@@ -6,16 +6,12 @@ AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
 
 
 
-MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
-as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
+Memorial Books is our project that is done as the solution , is a collection of various famous books 
+as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
 
 
 # Features
 -  Good UI
-
--  Separate pages according to our semesters
-
--  Every Pdf Will load from drive for instant view or for download
 
 -  Easy To Navigate
 
